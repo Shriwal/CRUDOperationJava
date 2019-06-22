@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="/usr/lib/jvm/java-8-oracle" stamp="1542580441557"/>
-    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1557934528665"/>
+<entry loc="/usr/lib/jvm/java-8-oracle" stamp="1542580441000"/>
 </dirs>
